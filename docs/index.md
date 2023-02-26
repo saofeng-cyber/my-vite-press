@@ -9,7 +9,7 @@ hero:
   text: 个人知识库
   tagline: 知识永远都在积累中...
   image:
-    src: /image/logo.png
+    src: /image/logo-right.png
     alt: Vite
   actions:
     - theme: brand
