@@ -10,7 +10,6 @@ export default defineConfig({
     lastUpdated: true,
     themeConfig: {
         logo: "https://wonderful-code.gitee.io/images/logo.png",
-        siteTitle: '知识文档',
         editLink: {
             pattern: 'https://github.com/vuejs/vitepress/edit/main/docs/:path'
         },

@@ -1,26 +1,26 @@
 ---
 layout: home
 
-title: Vite
-titleTemplate: Next Generation Frontend Tooling
+title: 知识库
+titleTemplate: 骚风的个人知识库
 
 hero:
-  name: Vite
-  text: Next Generation Frontend Tooling
-  tagline: Get ready for a development environment that can finally catch up with you.
+  name: 骚风
+  text: 个人知识库
+  tagline: 知识永远都在积累中...
   image:
     src: /image/logo.png
     alt: Vite
   actions:
     - theme: brand
-      text: Get Started
+      text: 开始
       link: /guide/
     - theme: alt
-      text: Why Vite?
+      text: 为什么?
       link: /guide/why
     - theme: alt
-      text: View on GitHub
-      link: https://github.com/vitejs/vite
+      text: 在 GitHub 查看
+      link: https://github.com/saofeng-cyber/my-vite-press
 
 features:
   - icon: 💡
